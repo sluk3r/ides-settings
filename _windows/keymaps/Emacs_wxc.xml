@@ -1,0 +1,29 @@
+<keymap version="1" name="Emacs_wxc" parent="Emacs">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift control SLASH" />
+    <keyboard-shortcut first-keystroke="shift control DIVIDE" />
+    <keyboard-shortcut first-keystroke="shift control V" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt SEMICOLON" />
+    <keyboard-shortcut first-keystroke="shift control C" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareTwoFiles" />
+  <action id="CopyPaths" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="SendEOF" />
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="DELETE" />
+  </action>
+</keymap>

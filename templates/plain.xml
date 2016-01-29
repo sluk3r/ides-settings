@@ -1,0 +1,5 @@
+<templateSet group="plain">
+  <template name="wxc" value="//wangxc " shortcut="TAB" description="wangxc comment" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

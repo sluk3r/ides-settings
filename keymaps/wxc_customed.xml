@@ -1,4 +1,7 @@
 <keymap version="1" name="wxc_customed" parent="$default">
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift control S" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="control F4" />
     <keyboard-shortcut first-keystroke="control W" />
@@ -13,10 +16,21 @@
     <keyboard-shortcut first-keystroke="control DIVIDE" />
     <keyboard-shortcut first-keystroke="shift control C" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="ENTER" />
+    <keyboard-shortcut first-keystroke="alt ENTER" />
+  </action>
   <action id="CopyPaths" />
   <action id="EditorSelectWord" />
+  <action id="GotoNextError" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift control INSERT" />
   </action>
   <action id="RemoteHostView.CopyPaths" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
 </keymap>

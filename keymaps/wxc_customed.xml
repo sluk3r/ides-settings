@@ -16,13 +16,22 @@
     <keyboard-shortcut first-keystroke="control DIVIDE" />
     <keyboard-shortcut first-keystroke="shift control C" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="ENTER" />
     <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
   <action id="CopyPaths" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="control Y" />
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="GotoNextError" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="PasteMultiple">
@@ -33,9 +42,12 @@
     <keyboard-shortcut first-keystroke="shift F6" />
     <keyboard-shortcut first-keystroke="F2" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowSettings" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift control K" />
     <keyboard-shortcut first-keystroke="control alt S" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>

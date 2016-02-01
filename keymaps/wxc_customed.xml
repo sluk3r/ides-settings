@@ -30,6 +30,9 @@
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt F" />
+  </action>
   <action id="GotoNextError" />
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.EditComponent" />

@@ -1,4 +1,8 @@
 <keymap version="1" name="wxc_customed" parent="$default">
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="control alt H" />
+    <keyboard-shortcut first-keystroke="F1" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift control S" />
   </action>
@@ -21,6 +25,8 @@
     <keyboard-shortcut first-keystroke="ENTER" />
     <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
+  <action id="ContextHelp" />
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -44,6 +50,8 @@
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="Move" />
+  <action id="NextDiff" />
   <action id="OverrideMethods" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift control INSERT" />
@@ -56,7 +64,19 @@
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowSettings" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift F8" />
+    <keyboard-shortcut first-keystroke="F7" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="F8" />
+    <keyboard-shortcut first-keystroke="F6" />
+  </action>
   <action id="TagDocumentationNavigation" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift control K" />

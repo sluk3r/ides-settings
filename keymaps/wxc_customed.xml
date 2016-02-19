@@ -61,6 +61,10 @@
     <keyboard-shortcut first-keystroke="shift F6" />
     <keyboard-shortcut first-keystroke="F2" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+    <keyboard-shortcut first-keystroke="F8" />
+  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowSettings" />
@@ -72,7 +76,6 @@
     <keyboard-shortcut first-keystroke="F7" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="F8" />
     <keyboard-shortcut first-keystroke="F6" />
   </action>
   <action id="SwitchApply">

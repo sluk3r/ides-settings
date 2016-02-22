@@ -61,8 +61,8 @@
     <keyboard-shortcut first-keystroke="shift F6" />
     <keyboard-shortcut first-keystroke="F2" />
   </action>
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift F10" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="F9" />
     <keyboard-shortcut first-keystroke="F8" />
   </action>
   <action id="SendEOF" />

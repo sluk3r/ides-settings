@@ -1,8 +1,4 @@
 <keymap version="1" name="wxc_customed" parent="$default">
-  <action id="CallHierarchy">
-    <keyboard-shortcut first-keystroke="control alt H" />
-    <keyboard-shortcut first-keystroke="F1" />
-  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift control S" />
   </action>
@@ -42,6 +38,10 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="control F12" />
     <keyboard-shortcut first-keystroke="control O" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="F1" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt F" />

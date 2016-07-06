@@ -134,6 +134,16 @@
           <method />
         </configuration>
       </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="E:/openSrc/akka/akka" value="82195198796992" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">

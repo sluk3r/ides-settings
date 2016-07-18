@@ -73,8 +73,5 @@
       <driver id="sqlite.xerial" name="Xerial" />
       <driver id="sqlite.zentus" name="Zentus" />
     </driver>
-    <driver id="odbc.sun" name="ODBC">
-      <option name="auto-sync" value="true" />
-    </driver>
   </component>
 </application>

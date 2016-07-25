@@ -58,6 +58,10 @@
           <option name="url" value="http://source.jd.com/app/atmp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://source.jd.com/app/ordermodify-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\work\git" />

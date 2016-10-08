@@ -63,6 +63,11 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
+    <pattern icon="question" useCustomColors="true" case-sensitive="false" pattern="\bbmlk\b.*">
+      <option name="FOREGROUND" value="bf62a4" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
     <filter name="wxc">
       <pattern index="3" />
     </filter>

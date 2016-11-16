@@ -68,6 +68,11 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\baddColumn\b.*">
+      <option name="FOREGROUND" value="73bf" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+    </pattern>
     <filter name="wxc">
       <pattern index="3" />
     </filter>
@@ -85,6 +90,9 @@
     </filter>
     <filter name="TODO">
       <pattern index="0" />
+    </filter>
+    <filter name="addColumn">
+      <pattern index="12" />
     </filter>
   </component>
 </application>

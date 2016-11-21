@@ -12,8 +12,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.properties</mask>
       <mask>*.java</mask>
+      <mask>*.properties</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>

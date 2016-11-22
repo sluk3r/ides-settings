@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="localRegularExpressions" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -13,8 +11,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.properties</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

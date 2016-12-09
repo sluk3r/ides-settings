@@ -73,6 +73,11 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btrap\b.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
     <filter name="wxc">
       <pattern index="3" />
     </filter>
@@ -93,6 +98,9 @@
     </filter>
     <filter name="addColumn">
       <pattern index="12" />
+    </filter>
+    <filter name="trap">
+      <pattern index="13" />
     </filter>
   </component>
 </application>

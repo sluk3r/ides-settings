@@ -26,8 +26,8 @@
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
     <pattern icon="question" useCustomColors="true" case-sensitive="false" pattern="\bpro\b.*">
-      <option name="FOREGROUND" value="388dc0" />
-      <option name="BACKGROUND" value="ffd0a8" />
+      <option name="FOREGROUND" value="c0c02f" />
+      <option name="BACKGROUND" value="569ea0" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
